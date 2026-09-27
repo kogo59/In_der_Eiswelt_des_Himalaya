@@ -47,11 +47,11 @@ WILLIAM HUNTER WORKMAN
 ::::
 
 * [Mt. Koser Gunge im Shigar-Tal, 21.000 Fuß](ch001.xhtml#b000) 
-* [Fan Mountain am Biafo-Gletscher.](ch002.xhtml#b004)
-* [Der Biafo-Gletscher vom Ogre-Lager aus gegen den Hispar-Paß.](ch002.xhtml#b010)
-* [Die Gefangennahme von General Stoughton.](ch009.xhtml#b047)
-* [Der erste Rückzug der Partisanen.](ch014.xhtml#b087)
-* [Plünderung und Zerstörung des Zuges bei Catlett’s Station.](ch015.xhtml#b093)  
+* [Fan Mountain am Biafo-Gletscher.](ch004.xhtml#b004)
+* [Der Biafo-Gletscher vom Ogre-Lager aus gegen den Hispar-Paß.](ch004.xhtml#b010)
+* [Ladakhischer Kuli mit Tragstuhl. <small>Für den Notfall bestimmt; auf den Reisen der Verfasser im Jahre 1898 wurde dieser Tragstuhl über 1.100 Meilen durch den Himalaya mitgeführt.</small>](ch005.xhtml#b012)
+* [Chorten bei Himis, Ladakh.](ch005.xhtml#b016)
+* [Buddha am Wege bei Leh, Ladakh.](ch005.xhtml#b021)  
 * [Captain Foster.](ch016.xhtml#b098)  
 * [Schlußstück für Kapitel XVI.](ch018.xhtml#b113)  
 * [Mosby unter den Wagenkolonnen.](ch019.xhtml#b117)  
