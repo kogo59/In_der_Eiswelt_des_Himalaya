@@ -1,6 +1,6 @@
 # In der Eiswelt des Himalaya
 
-<img align="right" height="200" src="https://github.com/kogo59/Partisanenleben_mit_Mosby/blob/main/images/cover.jpg">
+<img align="right" height="200" src="https://github.com/kogo59/In_der_Eiswelt_des_Himalaya/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "IN THE ICE-WORLD OF HIMALAYA".
 
