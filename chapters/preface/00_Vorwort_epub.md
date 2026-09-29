@@ -47,7 +47,7 @@ WILLIAM HUNTER WORKMAN
 ::::
 
 * [Mt. Koser Gunge im Shigar-Tal, 21.000 Fuß](ch001.xhtml#b000) 
-* [Fan Mountain am Biafo-Gletscher.](ch004.xhtml#b004)
+* [Fächerberg am Biafo-Gletscher.](ch004.xhtml#b004)
 * [Der Biafo-Gletscher vom Ogre-Lager aus gegen den Hispar-Paß.](ch004.xhtml#b010)
 * [Ladakhischer Kuli mit Tragstuhl. <small>Für den Notfall bestimmt; auf den Reisen der Verfasser im Jahre 1898 wurde dieser Tragstuhl über 1.100 Meilen durch den Himalaya mitgeführt.</small>](ch005.xhtml#b012)
 * [Chorten bei Himis, Ladakh.](ch005.xhtml#b016)
@@ -57,13 +57,13 @@ WILLIAM HUNTER WORKMAN
 * [Granit-Mani-Steine in der Nähe von Pannamik im Nubra-Tal.](ch006.xhtml#b024)  
 * [Eine Frau aus Yarkandi in ihrem Garten in Leh.](ch006.xhtml#b030)  
 * [Grundbesitzerinnen aus Ladakh, eine davon mit Bogen.](ch006.xhtml#b032)
+* [Frauen aus Leh, Ladakh, mit Peyrac.](ch007.xhtml#b038)  
+* [Tal in den asiatischen Dolomiten zwischen Kharbu und Kangi, Ladakh.](ch007.xhtml#b042)
+* [Ein Teil der Noon-Koon-Kette vom Rangdoon-Tal aus gesehen.](ch007.xhtml#b050)
+* [Noon und Koon, 23.400 und 23.540 Fuß, vom Purkutse-Pass aus gesehen.](ch007.xhtml#b052)
+* [Ein Nebengletscher des Bhot-Kol-Gletschers.](ch007.xhtml#b055)
+* [Auf dem Bhot-Kol-Gletscher.](ch007.xhtml#b058)
 
-* [Captain Smith.](ch021.xhtml#b142)  
-* [Schlußstück für Kapitel XIX.](ch021.xhtml#b149)
-* [Kopfleiste für Kapitel XX.](ch022.xhtml#b150)
-* [Baron von Massow.](ch022.xhtml#b154)
-* [Miss Roberta P——.](ch023.xhtml#b164)
-* [Tom Turner im Sterben.](ch025.xhtml#b184)
 * [Der Hirschtanz des Predigers.](ch026.xhtml#b196)
 
 

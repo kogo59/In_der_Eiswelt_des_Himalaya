@@ -84,7 +84,7 @@ ebenso wie vor denen der Gletscher mit ihren ungeheuren Spalten muß der
 Bergsteiger beständig auf der Hut sein.
 
 :::: {.wrap-100 .caption .align-center}
-![Fan Mountain am Biafo-Gletscher.](Workman_004.jpg "Fan Mountain am Biafo-Gletscher."){#b004}
+![Fächerberg am Biafo-Gletscher.](Workman_004.jpg "Fächerberg am Biafo-Gletscher."){#b004}
 ::::
 
 Wer den Himalaya für bergsteigerische Bagatellen hält, der gehe selbst hin und
