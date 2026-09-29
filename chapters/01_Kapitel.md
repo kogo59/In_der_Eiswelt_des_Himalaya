@@ -2,7 +2,7 @@
 
 :::: { .fs-xs .justified }
 Unser kaschmirischer *Khansamah* in Srinagar — Die Besteigung des Mahadeo —
-Unser Diener aus Madras in Leh<br /><br />
+Unser Diener aus Madras in Leh.<br /><br />
 ::::
 
 ::: justified
