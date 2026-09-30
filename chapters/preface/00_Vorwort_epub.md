@@ -63,8 +63,9 @@ WILLIAM HUNTER WORKMAN
 * [Noon und Koon, 23.400 und 23.540 Fuß, vom Purkutse-Pass aus gesehen.](ch007.xhtml#b052)
 * [Ein Nebengletscher des Bhot-Kol-Gletschers.](ch007.xhtml#b055)
 * [Auf dem Bhot-Kol-Gletscher.](ch007.xhtml#b058)
-
-* [Der Hirschtanz des Predigers.](ch026.xhtml#b196)
+* [Bhutanische Kulis bei Chia Banjan, fünf von ihnen Frauen.](ch008.xhtml#b068)
+* [D₂, Siniolchum, Sikkim.](ch008.xhtml#b074)
+* [Gaurisankar (Mt. Everest), 29.002 Fuß, von Sikkim aus gesehen.](ch008.xhtml#b078)
 
 
 

@@ -10,7 +10,7 @@ und Rückkehr nach Srinagar.<br /><br />
 
 ::: justified
 
-Während unseres Aufenthaltes in Leh fassten wir den Plan, nach Srinagar über
+WÄHREND unseres Aufenthaltes in Leh fassten wir den Plan, nach Srinagar über
 Kangi, das Rangdoon-Tal, Suru, den Bhot-Kol-Pass sowie das obere und untere
 Wardwan zurückzukehren. Um Kangi zu erreichen, mussten wir jenseits des Fotu La
 die Hauptstraße verlassen und quer über die Berge ziehen.
