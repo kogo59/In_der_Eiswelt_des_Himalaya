@@ -66,7 +66,9 @@ WILLIAM HUNTER WORKMAN
 * [Bhutanische Kulis bei Chia Banjan, fünf von ihnen Frauen.](ch008.xhtml#b068)
 * [D₂, Siniolchum, Sikkim.](ch008.xhtml#b074)
 * [Gaurisankar (Mt. Everest), 29.002 Fuß, von Sikkim aus gesehen.](ch008.xhtml#b078)
+* [Bei Askole.](ch009.xhtml#b086)
 
+* [Überrest des alten Forts bei Askole.](ch009.xhtml#b092)
 
 
 
