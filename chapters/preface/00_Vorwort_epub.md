@@ -90,4 +90,11 @@ WILLIAM HUNTER WORKMAN
 * [Gipfel auf der Westseite des Hispar-Passes.](ch012.xhtml#b124a)
 * [B. 15, Mt. Kailāsa, 23.914 Fuß, vom Hispar-Paß aus gesehen.](ch012.xhtml#b126)
 * [Aufklaren des Sturmes auf dem Biafo-Gletscher.](ch012.xhtml#b126a)
+* [Das Siegfriedhorn von Norden.](ch013.xhtml#b130)
+* [Im Ogre Camp, 14.600 Fuß, Biafo-Gletscher.](ch013.xhtml#b132)
+* [Im Avalanche Camp, 16.200 Fuß.](ch013.xhtml#b132a)
+* [Siegfriedhorn, 18.600 Fuß, und Skoro La, 17.000 Fuß, vom Avalanche Camp aus.](ch013.xhtml#b134)
+* [Die weißen Schicksalsmächte vom Avalanche Camp, 16.200 Fuß.](ch013.xhtml#b136)
+* [Gipfel des Siegfriedhorns, 18.600 Fuß.](ch013.xhtml#b138)
+* [Unser Steinmann auf einer etwa 30 Fuß breiten Felsterrasse nahe dem Gipfel des Siegfriedhorns.](ch013.xhtml#b140)
 

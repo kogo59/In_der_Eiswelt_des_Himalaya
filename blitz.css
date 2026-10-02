@@ -703,6 +703,10 @@ svg {
   width: 50%;
   margin: 1.5em 25%;
 }
+.wrap-48 {
+  width: 48%;
+  margin: 1.5em 30%;
+}
 .wrap-40 {
   width: 40%;
   margin: 1.5em 30%;
