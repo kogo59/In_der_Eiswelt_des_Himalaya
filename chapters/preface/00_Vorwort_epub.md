@@ -82,4 +82,12 @@ WILLIAM HUNTER WORKMAN
 * [Gletschertal an der Westseite des Biafo-Gletschers.](ch011.xhtml#b114)
 * [Mount Meru mit Gletschertal an der Westseite des Biafo-Gletschers.](ch011.xhtml#b114a)
 * [Mount Meru oder »Berg der Sonne«, oberhalb des Ogre Camp am Biafo-Gletscher.](ch011.xhtml#b116)
+* [Zeltterrassen im Ogre Camp, Biafo.](ch012.xhtml#b118)
+* [Sir Martin Conways Steinmann im Ogre Camp.](ch012.xhtml#b118a)
+* [In einer Gletscherspalte am Snow Lake.](ch012.xhtml#b120)
+* [Ice Camp oberhalb des Snow Lake, 16.450 Fuß.](ch012.xhtml#b122)
+* [Eisschlucht und Gipfel östlich gegenüber dem Hispar-Paß.](ch012.xhtml#b124)
+* [Gipfel auf der Westseite des Hispar-Passes.](ch012.xhtml#b124a)
+* [B. 15, Mt. Kailāsa, 23.914 Fuß, vom Hispar-Paß aus gesehen.](ch012.xhtml#b126)
+* [Aufklaren des Sturmes auf dem Biafo-Gletscher.](ch012.xhtml#b126a)
 
