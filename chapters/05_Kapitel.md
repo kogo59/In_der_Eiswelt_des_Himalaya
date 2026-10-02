@@ -255,7 +255,7 @@ Sträuchern, nicht zu finden. Die einzigen Bewohner sind Stechmücken und
 Murmeltiere.
 
 :::: {.wrap-70 .caption .align-center}
-![Überrest des alten Forts bei Askole.](Workman_092.jpg "Überrest des alten Forts bei Askole"){#b092}
+![Überrest des alten Forts bei Askole.](Workman_092.jpg "Überrest des alten Forts bei Askole."){#b092}
 ::::
 
 Die Stechmücke, die ihre bedeutende Rolle in diesem Reiche offenbar sehr wohl

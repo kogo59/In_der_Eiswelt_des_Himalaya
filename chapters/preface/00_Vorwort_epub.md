@@ -69,7 +69,17 @@ WILLIAM HUNTER WORKMAN
 * [Bei Askole.](ch009.xhtml#b086)
 
 * [Überrest des alten Forts bei Askole.](ch009.xhtml#b092)
-
-
-
+* [Die Seilbrücke über den Braldu nahe Askole, 270 Fuß lang.](ch010.xhtml#b100)
+* [Eine Momentaufnahme — Männer von Askole beobachten, wie ihre Dorfgenossen photographiert werden.](ch010.xhtml#b102)
+* [Frauen von Askole.](ch010.xhtml#b102a)
+* [Lambardar Kinchin und Kulis aus Askole auf dem Biafo.](ch011.xhtml#b105)
+* [Zusammenfluß der Wasserläufe vom Biafo- und Baltoro-Gletscher, aus denen nahe Askole der Braldu-Fluß entsteht.](ch011.xhtml#b105)
+* [Biafo-Gletscher und der Gipfel gegenüber seinem unteren Ende.](ch011.xhtml#b106)
+* [Das Walhall des Biafo, gegenüber dem Mount Meru.](ch011.xhtml#b108)
+* [Eisgalerie auf dem Biafo-Gletscher. <small>Lambardar Kinchin zieht Zurbriggen nach der Rettung eines Schafes aus einer Gletscherspalte.</small>](ch011.xhtml#b110)
+* [Kulis auf einem Eishügel des Biafo.](ch011.xhtml#b112)
+* [Felsblöcke und Eisrücken auf dem Biafo.](ch011.xhtml#b112a)
+* [Gletschertal an der Westseite des Biafo-Gletschers.](ch011.xhtml#b114)
+* [Mount Meru mit Gletschertal an der Westseite des Biafo-Gletschers.](ch011.xhtml#b114a)
+* [Mount Meru oder »Berg der Sonne«, oberhalb des Ogre Camp am Biafo-Gletscher.](ch011.xhtml#b116)
 
