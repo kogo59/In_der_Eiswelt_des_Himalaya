@@ -97,4 +97,11 @@ WILLIAM HUNTER WORKMAN
 * [Die weißen Schicksalsmächte vom Avalanche Camp, 16.200 Fuß.](ch013.xhtml#b136)
 * [Gipfel des Siegfriedhorns, 18.600 Fuß.](ch013.xhtml#b138)
 * [Unser Steinmann auf einer etwa 30 Fuß breiten Felsterrasse nahe dem Gipfel des Siegfriedhorns.](ch013.xhtml#b140)
+* [Höchster Schneegipfel des Skoro-La-Kreises, vermutlich 20.500 Fuß; aufgenommen vom Mount Bullock Workman.](ch014.xhtml#b144)
+* [Haunted Camp, 17.375 Fuß, am Fuße des Mount Bullock Workman.](ch014.xhtml#b146)
+* [Gipfel des Mount Bullock Workman mit unserer Spur.](ch014.xhtml#b148)
+* [Der Gipfel des Mount Bullock Workman, 19.450 Fuß](ch014.xhtml#b150)
+* [Teil des Crescent Glacier, vom Mount Bullock Workman aus gesehen.](ch014.xhtml#b152)
+* [Blick vom Mount Bullock Workman nach Osten.](ch014.xhtml#b154)
+* [Blick vom Mount Bullock Workman nach Norden auf die Berge des Biafo.](ch014.xhtml#b156)
 
