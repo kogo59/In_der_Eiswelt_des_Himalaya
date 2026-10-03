@@ -21,7 +21,7 @@ Fuße einer großartigen Schar kühn aufragender Gipfel schmiegt. Der einzige
 leidlich brauchbare Lagerplatz neben einem *serai* war bereits besetzt, und so
 blieb uns die Wahl zwischen einem gepflügten Feld, das teilweise vom Schatten
 dreier kränklicher Aprikosenbäume bedeckt war, und einem kleinen baumlosen
-Grasstück, wo selbst ein doppelwandiges Fliegentzelt der Glut der Julisonne kaum
+Grasstück, wo selbst ein doppelwandiges Fliegengitterzelt der Glut der Julisonne kaum
 etwas entgegenzusetzen vermochte.
 
 Nach einem kurzen Marsch erreichten wir das ländliche, weit hingestreckte

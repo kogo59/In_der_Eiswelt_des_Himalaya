@@ -104,4 +104,7 @@ WILLIAM HUNTER WORKMAN
 * [Teil des Crescent Glacier, vom Mount Bullock Workman aus gesehen.](ch014.xhtml#b152)
 * [Blick vom Mount Bullock Workman nach Osten.](ch014.xhtml#b154)
 * [Blick vom Mount Bullock Workman nach Norden auf die Berge des Biafo.](ch014.xhtml#b156)
+* [Beim Photographieren auf dem Gletscher.](ch015.xhtml#b162)
+* [Stufenschlagen in den Séracs des Biafo.](ch015.xhtml#b168)
+* [Skizze der Route auf den Koser Gunge.](ch015.xhtml#b176)
 
