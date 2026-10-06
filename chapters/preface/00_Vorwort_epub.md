@@ -107,4 +107,16 @@ WILLIAM HUNTER WORKMAN
 * [Beim Photographieren auf dem Gletscher.](ch015.xhtml#b162)
 * [Stufenschlagen in den Séracs des Biafo.](ch015.xhtml#b168)
 * [Skizze der Route auf den Koser Gunge.](ch015.xhtml#b176)
+* [Fotogravur Mrs. Fanny Bullock Workman.](ch016.xhtml#b182)
+* [Fotogravur Dr. William Hunter Workman.](ch016.xhtml#b186)
+* [Am Steinmann auf dem Siegfriedhorn.](ch016.xhtml#b192)
+* [RAJA SIR AMAR SINGH, K.C.S.I.<br /><small>Oberbefehlshaber der Kaschmir-Armee.</small>](ch017.xhtml#b198)
+* [Alexander-Münze, geprägt um 320 v. Chr.](ch017.xhtml#b199)
 
+## Karten
+
+* [**Karte von Kaschmir**, mit den von Fanny Bullock Workman und Dr. William Hunter Workman während der Sommer 1898 und 1899 zurückgelegten Routen.](ch018.xhtml#b200)<br /><br />
+
+* [**Karte des Biafo-Gletschers bis zum Hispar-Paß, des Skoro La, des Shigar-Tales und der angrenzenden Gebiete**, mit der von Dr.William Hunter Workman und FannyBullock Workman im Juli und August 1899 zurückgelegten Route.](ch018.xhtml#b201)<br /><br />
+
+* [**Schematische Skizze der Eisfälle und des Gletschers im Kar des Skora La**, mit den von Fanny Bullock Workman und Dr. William Hunter Workman im Juli und August 1899 begangenen Routen.](ch018.xhtml#b202) *Von W. H. W.*
