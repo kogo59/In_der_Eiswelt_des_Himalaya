@@ -6,7 +6,7 @@ This is a git repository of the source files for the translation to german of th
 
 Author:
 
-* [Fanny Bullock Workman](https://en.wikipedia.org/wiki/Fanny_Bullock_Workman) (1820—1925)
+* [Fanny Bullock Workman](https://en.wikipedia.org/wiki/Fanny_Bullock_Workman) (1859—1925)
 
 * [William Hunter Workman](https://de.wikipedia.org/wiki/William_Hunter_Workman) (1847—1937)
 
